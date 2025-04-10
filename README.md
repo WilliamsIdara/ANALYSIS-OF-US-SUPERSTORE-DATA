@@ -1,11 +1,12 @@
-#ANALYSIS-OF-US-SUPERSTORE-DATA
+ANALYSIS-OF-US-SUPERSTORE-DATA
 
 INTRODUCTION
+
 To operate successfully in business, business needs analysis of their data. These analysis offers insightful information about how their organization are doing in terms of sales and helps to guide important business choices. They can find areas for improvement, assess the success of their sales tactics and reach well informed judgement by evaluating sales data.
 
 Superstore is a business in the United States which deals in the sales of furniture, office supplies and technology product and their customers are consumer, corporate, home offices and small business. The dataset contains sales, profit, geographical information, customer information, etc. The aim of this analysis is to uncover significant insights that can be used by Superstore to assess their performances, pinpoint areas for development and make wise decisions that promote expansion and profitability.
 
-BASIS
+DATA SOURCE
 
 The dataset used in this project was obtained from Kaggle.com named [SuperstoreUS](Kaggle.com/datasets/amrboghdady74/superstoreus). The dataset was collated on a spreadsheet (Microsoft excel) with column heads which includes.
 Order Priority: High, Low, Critical or Not specified.
